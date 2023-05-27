@@ -1,0 +1,1 @@
+Just a quickie to try out GraphQL
